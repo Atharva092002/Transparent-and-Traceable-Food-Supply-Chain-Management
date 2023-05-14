@@ -10,6 +10,25 @@ The Indian agricultural sector faces various challenges, including fragmented su
 The food supply chain has a number of challenges, including a lack of transparency and disengagement among stakeholders. By providing a transparent and traceable digital ledger of transactions and movements for all supply chain actors, blockchain technology can provide a resolution to these problems. We propose a blockchain-based system for tracking a product's full path, from its raw components to the finished item in the store. Many advantages of the offered system include improved
 quality assessment, increased product transparency and traceability, and sophisticated fraud detection capabilities. By reinventing the way transactions are carried out and enabling stakeholders to obtain a complete record of each product's journey, the system has the potential to completely alter the food supply chain. Also, by minimising inefficiencies, waste, and fraudulent activities that have a negative influence on the supply chain, the deployment of this system can remove limits imposed by the current supply chain. Overall, the suggested blockchain-based system has the potential to significantly increase the efficiency, transparency, and traceability of the food supply chain.
 
+## Working
+
+![image](https://github.com/Atharva092002/Transparent-and-Traceable-Food-Supply-Chain-Management/assets/95115949/8768cda8-7167-4e40-8e52-9c7295640c94)
+
+Circuit connections
+
+![image](https://github.com/Atharva092002/Transparent-and-Traceable-Food-Supply-Chain-Management/assets/95115949/606df327-2e9d-4291-82e3-9b755b57596d)
+ 
+Red Led blinking when wrong RFID tag is scanned
+
+![image](https://github.com/Atharva092002/Transparent-and-Traceable-Food-Supply-Chain-Management/assets/95115949/6897fba9-619f-44e0-bef8-db9f37032bb7)
+
+Green Led blinking when right RFID tag is scanned
+
+![image](https://github.com/Atharva092002/Transparent-and-Traceable-Food-Supply-Chain-Management/assets/95115949/282038dd-8b30-4476-9c3d-f8e9d414cb0b)
+
+![image](https://github.com/Atharva092002/Transparent-and-Traceable-Food-Supply-Chain-Management/assets/95115949/68180b18-7458-4245-9baa-43cb21e73068)
+
+Messages displayed in console
 
 ## Feasibilty
 To make this idea a feasible solution, it requires immense government support and a heavy capital investment to set up the entire ecosystem. From a technical viewpoint, the project is feasible. But some obstacles which we can face in this are the blockchain might get overloaded with data because as the package travels, at every point the data is being fed into the blockchain. From an economical viewpoint, this is going to be expensive to set up but considering that government will invest and support in this project, it is an idea which can be implemented. Another problem which we can encounter is that it is hard to convince people at first because blockchain is very new. India has come a long way in the last decade in terms of food traceability, thanks to private and public sector initiatives.
